@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="routing">مسیریابی</string>
+    <string name="no_places_found">هیچ مکانی در نزدیکی شما یافت نشد</string>
+</resources>
